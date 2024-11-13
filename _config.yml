@@ -1,7 +1,7 @@
 # Site settings
-title: Daniel E. Weeks
-email: weeks@pitt.edu
-description: Academic webpage of Daniel E. Weeks
+title: Lauren M. Spor
+email: lauren.spor@pitt.edu
+description: Academic webpage of Lauren Spor
 baseurl: ""
 url: ""
 
@@ -12,7 +12,7 @@ url: ""
 
 # Footer info
 affiliation: >
-  Daniel E. Weeks, Ph.D.<br/>
+  Lauren M. Spor, MPH.<br/>
   Department of Human Genetics<br/>
   School of Public Health<br/>
   University of Pittsburgh
@@ -23,19 +23,19 @@ location: >
   Pittsburgh, PA 15261 
 
 contact: >
-  <a href="mailto:weeks@pitt.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Dan via email</a> <br/>
+  <a href="mailto:lauren.spor@pitt.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Lauren via email</a> <br/>
   <a href="https://github.com/DanielEWeeks/Daniel_E_Weeks" target="_blank"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: team
-  - name: teaching
+#  - name: team
+#  - name: teaching
   - name: publications
 # - name: talks
 # - name: research
-  - name: software
-  - name: blog
+#  - name: software
+#  - name: blog
 
 include:
   - .htaccess
