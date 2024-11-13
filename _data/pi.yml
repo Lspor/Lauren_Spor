@@ -14,9 +14,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "Present: Ph.D., Human Genetics, University of Pittsburgh",
-      "2023: M.P.H. Public Health Genetics, University of Pittsburgh",
-      "2018: B.S. Human Biology & Society, University of California, Los Angeles",
+      "Present: PhD, Human Genetics, University of Pittsburgh",
+      "2023: MPH Public Health Genetics, University of Pittsburgh",
+      "2018: BS Human Biology & Society, University of California, Los Angeles",
     ]
 
   educationshort:
